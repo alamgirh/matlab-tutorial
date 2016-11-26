@@ -37,4 +37,4 @@
  </ul>
 </ul>
 
-  <img src="images/JupyterMatlab.png" alt="Jupyter Screenshot" style="width:60%">
+  <img src="JupyterMatlab.png" alt="Jupyter Screenshot" style="width:60%">
