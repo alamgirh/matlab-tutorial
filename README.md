@@ -5,7 +5,7 @@
 - Octave language is quite similar to Matlab
 
 
-## Matlab with Jupyter Notebook
+## Matlab in Jupyter Notebook
 - [About Jupyter Notebook](http://jupyter.org/)
 - [how to set-up jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 - [ how to use jupyter notebook](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
