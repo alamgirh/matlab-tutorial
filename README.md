@@ -7,27 +7,24 @@
 
 ## Matlab with Jupyter Notebook
 - [About Jupyter Notebook](http://jupyter.org/)
-- <a href='https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/'> how to set-up jupyter notebook  </a>
-- <a href='http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb'> how to use jupyter notebook </a> 
-- <a href='https://github.com/Calysto/matlab_kernel'> Install Matlab Kernel </a> 
-
+- [how to set-up jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
+- [ how to use jupyter notebook](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
+- [Install Matlab Kernel](https://github.com/Calysto/matlab_kernel) 
 
 #### Github Repository for Matlab Tutorial using Jupyter Notebook
- <a href='https://github.com/alamgirh/matlab-tutorial'> https://github.com/alamgirh/matlab-tutorial </a>
+ [https://github.com/alamgirh/matlab-tutorial](https://github.com/alamgirh/matlab-tutorial)
 
- 
 ## Contents
-- <a href='https://alamgirh.github.io/matlab/matlabBasic.html'> Basic operations </a>
-- <a href='https://alamgirh.github.io/matlab/matlabFunctions.html'> Functions </a>
-- <a href='https://alamgirh.github.io/matlab/matlabConditions.html'> Conditions </a>
-- <a href='https://alamgirh.github.io/matlab/matlabLoops.html'> Loops </a>
-- <a href='https://alamgirh.github.io/matlab/matlabPlots.html'> Plotting </a>
+- [Basic operations]https://alamgirh.github.io/matlab/matlabBasic.html)
+- [Functions](https://alamgirh.github.io/matlab/matlabFunctions.html) 
+- [Conditions](https://alamgirh.github.io/matlab/matlabConditions.html) 
+- [ Loops](https://alamgirh.github.io/matlab/matlabLoops.html)
+- [Plotting](https://alamgirh.github.io/matlab/matlabPlots.html)
 - Nummerical methods
- - <a href='https://alamgirh.github.io/matlab/matlabIntegrations.html'> Numerical integration </a>
- - <a href='https://alamgirh.github.io/matlab/matlabDifferentiation.html'> Numerical Differentiation </a>
- - <a href='https://alamgirh.github.io/matlab/matlabODE.html'> Ordinary Differential Equations </a>
- </ul>
+ - [Numerical integration](https://alamgirh.github.io/matlab/matlabIntegrations.html)
+ - [Numerical Differentiation](https://alamgirh.github.io/matlab/matlabDifferentiation.html)
+ - [Ordinary Differential Equations](https://alamgirh.github.io/matlab/matlabODE.html)
 - Complex Analysis
- - <a href='https://alamgirh.github.io/matlab/matlabComplex.html'> Complex Function
+ - [Complex Function](https://alamgirh.github.io/matlab/matlabComplex.html)
 
   <img src="JupyterMatlab.png" alt="Jupyter Screenshot" style="width:60%">
