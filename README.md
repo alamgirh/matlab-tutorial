@@ -15,16 +15,16 @@
  [https://github.com/alamgirh/matlab-tutorial](https://github.com/alamgirh/matlab-tutorial)
 
 ## Contents
-- [Basic operations](https://alamgirh.github.io/matlab/matlabBasic.html)
-- [Functions](https://alamgirh.github.io/matlab/matlabFunctions.html) 
-- [Conditions](https://alamgirh.github.io/matlab/matlabConditions.html) 
-- [ Loops](https://alamgirh.github.io/matlab/matlabLoops.html)
-- [Plotting](https://alamgirh.github.io/matlab/matlabPlots.html)
+- [Basic operations](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabBasic.ipynb)
+- [Functions](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabFunctions.ipynb) 
+- [Conditions](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabConditions.ipynb) 
+- [ Loops](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabLoops.ipynb)
+- [Plotting](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabPlots.ipynb)
 - Nummerical methods
- - [Numerical integration](https://alamgirh.github.io/matlab/matlabIntegrations.html)
- - [Numerical Differentiation](https://alamgirh.github.io/matlab/matlabDifferentiation.html)
- - [Ordinary Differential Equations](https://alamgirh.github.io/matlab/matlabODE.html)
+ - [Numerical integration](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabIntegrations.ipynb)
+ - [Numerical Differentiation](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabDifferentiation.ipynb)
+ - [Ordinary Differential Equations](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabODE.ipynb)
 - Complex Analysis
- - [Complex Function](https://alamgirh.github.io/matlab/matlabComplex.html)
+ - [Complex Function](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabComplex.ipynb)
 
   <img src="JupyterMatlab.png" alt="Jupyter Screenshot" style="width:60%">
