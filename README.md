@@ -15,7 +15,7 @@
  [https://github.com/alamgirh/matlab-tutorial](https://github.com/alamgirh/matlab-tutorial)
 
 ## Contents
-- [Basic operations]https://alamgirh.github.io/matlab/matlabBasic.html)
+- [Basic operations](https://alamgirh.github.io/matlab/matlabBasic.html)
 - [Functions](https://alamgirh.github.io/matlab/matlabFunctions.html) 
 - [Conditions](https://alamgirh.github.io/matlab/matlabConditions.html) 
 - [ Loops](https://alamgirh.github.io/matlab/matlabLoops.html)
