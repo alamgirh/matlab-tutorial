@@ -11,8 +11,6 @@
 - [ how to use jupyter notebook](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
 - [Install Matlab Kernel](https://github.com/Calysto/matlab_kernel) 
 
-#### Github Repository for Matlab Tutorial using Jupyter Notebook
- [https://github.com/alamgirh/matlab-tutorial](https://github.com/alamgirh/matlab-tutorial)
 
 ## Contents
 - [Basic operations](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabBasic.ipynb)
