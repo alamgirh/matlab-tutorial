@@ -18,11 +18,12 @@
 - [Conditions](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabConditions.ipynb) 
 - [ Loops](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabLoops.ipynb)
 - [Plotting](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabPlots.ipynb)
-- Nummerical methods
+- Numerical methods
  - Root finding methods
    - Bisection Method 
    - Fixed Point Iteration
    - Secant and Newton’s Methods
+
  - [Numerical integration](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabIntegrations.ipynb)
  - [Numerical Differentiation](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabDifferentiation.ipynb)
  - [Ordinary Differential Equations](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabODE.ipynb)
