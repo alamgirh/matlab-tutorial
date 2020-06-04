@@ -2,7 +2,7 @@
 - Matlab (matrix laboratory) is a high-performance language for scientific computing.
 - Matlab allows matrix manipulations, plotting of functions and data, implementation of algorithms, and many more.
 - Matlab primarily uses for numerical computations.
-- Octave language is quite similar to Matlab
+- Octave language is quite similar to Matlab.
 
 
 ## Matlab in Jupyter Notebook
@@ -19,9 +19,11 @@
 - [ Loops](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabLoops.ipynb)
 - [Plotting](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabPlots.ipynb)
 - Nummerical methods
+ - Root finding methods
  - [Numerical integration](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabIntegrations.ipynb)
  - [Numerical Differentiation](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabDifferentiation.ipynb)
  - [Ordinary Differential Equations](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabODE.ipynb)
+ 
 - Complex Analysis
  - [Complex Function](http://nbviewer.jupyter.org/github/alamgirh/matlab-tutorial/blob/master/matlabComplex.ipynb)
 
